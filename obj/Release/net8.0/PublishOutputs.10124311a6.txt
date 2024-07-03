@@ -1,0 +1,5 @@
+C:\Personal\FinishedProject\MyFirstProgram\C#-MathGameProject.exe
+C:\Personal\FinishedProject\MyFirstProgram\C#-MathGameProject.dll
+C:\Personal\FinishedProject\MyFirstProgram\C#-MathGameProject.deps.json
+C:\Personal\FinishedProject\MyFirstProgram\C#-MathGameProject.runtimeconfig.json
+C:\Personal\FinishedProject\MyFirstProgram\C#-MathGameProject.pdb

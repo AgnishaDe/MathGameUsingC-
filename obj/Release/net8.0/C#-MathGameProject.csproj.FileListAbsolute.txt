@@ -1,0 +1,14 @@
+C:\Personal\c#-Math_Game\C#-MathGameProject\C#-MathGameProject\bin\Release\net8.0\C#-MathGameProject.exe
+C:\Personal\c#-Math_Game\C#-MathGameProject\C#-MathGameProject\bin\Release\net8.0\C#-MathGameProject.deps.json
+C:\Personal\c#-Math_Game\C#-MathGameProject\C#-MathGameProject\bin\Release\net8.0\C#-MathGameProject.runtimeconfig.json
+C:\Personal\c#-Math_Game\C#-MathGameProject\C#-MathGameProject\bin\Release\net8.0\C#-MathGameProject.dll
+C:\Personal\c#-Math_Game\C#-MathGameProject\C#-MathGameProject\bin\Release\net8.0\C#-MathGameProject.pdb
+C:\Personal\c#-Math_Game\C#-MathGameProject\C#-MathGameProject\obj\Release\net8.0\C#-MathGameProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\c#-Math_Game\C#-MathGameProject\C#-MathGameProject\obj\Release\net8.0\C#-MathGameProject.AssemblyInfoInputs.cache
+C:\Personal\c#-Math_Game\C#-MathGameProject\C#-MathGameProject\obj\Release\net8.0\C#-MathGameProject.AssemblyInfo.cs
+C:\Personal\c#-Math_Game\C#-MathGameProject\C#-MathGameProject\obj\Release\net8.0\C#-MathGameProject.csproj.CoreCompileInputs.cache
+C:\Personal\c#-Math_Game\C#-MathGameProject\C#-MathGameProject\obj\Release\net8.0\C#-MathGameProject.dll
+C:\Personal\c#-Math_Game\C#-MathGameProject\C#-MathGameProject\obj\Release\net8.0\refint\C#-MathGameProject.dll
+C:\Personal\c#-Math_Game\C#-MathGameProject\C#-MathGameProject\obj\Release\net8.0\C#-MathGameProject.pdb
+C:\Personal\c#-Math_Game\C#-MathGameProject\C#-MathGameProject\obj\Release\net8.0\C#-MathGameProject.genruntimeconfig.cache
+C:\Personal\c#-Math_Game\C#-MathGameProject\C#-MathGameProject\obj\Release\net8.0\ref\C#-MathGameProject.dll
